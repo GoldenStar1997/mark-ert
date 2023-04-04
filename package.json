@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrbauti-09/markr.git"
+    "url": "git+https://github.com/GoldenStar1997/mar-heroku.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrbauti-09/markr/issues"
+    "url": "https://github.com/GoldenStar1997/mar-heroku/issues"
   },
-  "homepage": "https://github.com/jrbauti-09/markr#readme"
+  "homepage": "https://github.com/GoldenStar1997/mar-heroku#readme"
 }
